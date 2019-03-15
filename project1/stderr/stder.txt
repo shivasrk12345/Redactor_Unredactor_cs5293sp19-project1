@@ -1,0 +1,5 @@
+       f1 f2 f3 f4
+names	30 11 29 42
+dates	2 5 2 5
+addresses	51 48 39 43
+phones	2 2 0 0
